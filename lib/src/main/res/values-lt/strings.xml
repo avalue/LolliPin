@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pin_code_forgot_text">Pamiršote?</string>
+    <string name="pin_code_step_disable">Išjungti PIN kodą</string>
+    <string name="pin_code_step_create">Nustatykite PIN kodą</string>
+    <string name="pin_code_step_change">Įveskite PIN kodą</string>
+    <string name="pin_code_step_unlock">Įveskite PIN kodą</string>
+    <string name="pin_code_step_enable_confirm">Patvirtinkite PIN kodą</string>
+
+    <string name="pin_code_fingerprint_text">Piršto atspaudas</string>
+    <string name="pin_code_fingerprint_success">Piršto atspaudas atpažintas</string>
+    <string name="pin_code_fingerprint_not_recognized">Piršto atspaudas neatpažintas. Bandykite dar kartą</string>
+</resources>

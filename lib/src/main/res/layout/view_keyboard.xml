@@ -120,7 +120,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            app:lp_keyboard_button_image="@drawable/ic_backspace_grey600_24dp" />
+            app:lp_keyboard_button_image="@drawable/ic_backspace_24dp" />
 
     </LinearLayout>
 
